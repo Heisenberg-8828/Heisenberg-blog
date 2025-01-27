@@ -1,0 +1,59 @@
+site_name: "Heisenberg's Polymath Hub"
+site_url: "https://heisenberg-8828.github.io/"
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  features:
+    - tabs
+    - navigation.tabs
+    - navigation.expand
+    - navigation.sections
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Mathematics:
+      - Algebra: math/algebra.md
+      - Calculus: math/calculus.md
+      - Geometry: math/geometry.md
+  - Computer Science:
+      - Data Structures: cs/data_structures.md
+      - Algorithms: cs/algorithms.md
+      - System Design: cs/system_design.md
+  - History:
+      - Ancient: history/ancient.md
+      - Modern: history/modern.md
+  - Philosophy:
+      - Ethics: philosophy/ethics.md
+      - Metaphysics: philosophy/metaphysics.md
+      - Epistemology: philosophy/epistemology.md
+  - Artificial Intelligence:
+      - Machine Learning: ai/ml.md
+      - Deep Learning: ai/dl.md
+      - NLP: ai/nlp.md
+  - Economics:
+      - Microeconomics: econ/micro.md
+      - Macroeconomics: econ/macro.md
+  - Physics:
+      - Quantum Mechanics: physics/quantum.md
+      - Classical Mechanics: physics/classical.md
+  - Psychology:
+      - Cognitive Psychology: psych/cognitive.md
+      - Behavioral Psychology: psych/behavioral.md
+  - Personal Development:
+      - Productivity: personal/productivity.md
+      - Life Lessons: personal/life_lessons.md
+  - Tags: tags.md
+plugins:
+  - search
+  - tags:
+      file: tags.md
