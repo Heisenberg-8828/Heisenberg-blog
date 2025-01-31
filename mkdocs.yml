@@ -56,4 +56,4 @@ nav:
 plugins:
   - search
   - tags:
-      file: tags.md
+      tags_file: tags.md
