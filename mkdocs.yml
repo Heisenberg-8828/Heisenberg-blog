@@ -34,6 +34,7 @@ nav:
       - Data Structures: cs2/data_structures.md
       - Algorithms: cs2/algorithms.md
       - System Design: cs2/system_design.md
+      
   - History:
       - Ancient: history/ancient.md
       - Modern: history/modern.md
