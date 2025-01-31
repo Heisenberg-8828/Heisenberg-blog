@@ -1,5 +1,6 @@
 site_name: "Heisenberg's Polymath Hub"
-site_url: "https://heisenberg-8828.github.io/"
+site_url: "https://heisenberg-8828.github.io/Heisenberg-blog/"
+
 theme:
   name: material
   palette:
