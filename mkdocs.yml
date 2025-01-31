@@ -1,5 +1,7 @@
 site_name: "Heisenberg's Polymath Hub"
 site_url: "https://heisenberg-8828.github.io/Heisenberg-blog/"
+use_directory_urls:  false 
+
 
 theme:
   name: material
