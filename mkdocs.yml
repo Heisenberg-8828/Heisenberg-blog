@@ -21,6 +21,7 @@ theme:
 
 nav:
   - Home: index.md
+  - About: about.md
   - Mathematics:
       - Algebra: math/algebra.md
       - Calculus: math/calculus.md
@@ -29,6 +30,10 @@ nav:
       - Data Structures: cs/data_structures.md
       - Algorithms: cs/algorithms.md
       - System Design: cs/system_design.md
+  - Computer Science:
+      - Data Structures: cs2/data_structures.md
+      - Algorithms: cs2/algorithms.md
+      - System Design: cs2/system_design.md
   - History:
       - Ancient: history/ancient.md
       - Modern: history/modern.md
