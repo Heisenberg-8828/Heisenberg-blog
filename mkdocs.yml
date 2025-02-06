@@ -1,40 +1,46 @@
 site_name: "Heisenberg's Polymath Hub"
 site_url: "https://heisenberg-8828.github.io/Heisenberg-blog/"
-use_directory_urls:  true
+use_directory_urls: true
 extra:
   generator: false
 
 
+
 theme:
   name: material
-  palette:
-    - scheme: default
-      primary: indigo
-      accent: pink
-    - scheme: slate
-      primary: indigo
-      accent: pink
-      toggle:
-        icon: material/weather-night
-        name: Switch to dark mode
   features:
-    - tabs
     - navigation.tabs
-    - navigation.expand
     - navigation.sections
-    - navigation.top
+    - navigation.instant
+    - navigation.tracking
 
 nav:
   - Home: index.md
   - About: about.md
   - Mathematics:
+      - Map: math/map.md
       - Algebra: math/algebra.md
       - Calculus: math/calculus.md
       - Geometry: math/geometry.md
   - Computer Science:
+      - Map: cs/map.md
       - Data Structures: cs/data_structures.md
       - Algorithms: cs/algorithms.md
       - System Design: cs/system_design.md
+  - Artificial Intelligence:
+      - Map: ai/map.md
+      - Machine Learning: ai/ml.md
+      - Deep Learning: ai/dl.md
+      - NLP: ai/nlp.md
+  - Physics:
+      - Quantum Mechanics: physics/quantum.md
+      - Classical Mechanics: physics/classical.md
+  - Economics:
+      - Microeconomics: econ/micro.md
+      - Macroeconomics: econ/macro.md
+  - Psychology:
+      - Cognitive Psychology: psych/cognitive.md
+      - Behavioral Psychology: psych/behavioral.md
   - History:
       - Ancient: history/ancient.md
       - Modern: history/modern.md
@@ -42,25 +48,181 @@ nav:
       - Ethics: philosophy/ethics.md
       - Metaphysics: philosophy/metaphysics.md
       - Epistemology: philosophy/epistemology.md
-  - Artificial Intelligence:
-      - Machine Learning: ai/ml.md
-      - Deep Learning: ai/dl.md
-      - NLP: ai/nlp.md
-  - Economics:
-      - Microeconomics: econ/micro.md
-      - Macroeconomics: econ/macro.md
-  - Physics:
-      - Quantum Mechanics: physics/quantum.md
-      - Classical Mechanics: physics/classical.md
-  - Psychology:
-      - Cognitive Psychology: psych/cognitive.md
-      - Behavioral Psychology: psych/behavioral.md
   - Personal Development:
       - Productivity: personal/productivity.md
       - Life Lessons: personal/life_lessons.md
+  - Blogs/Books:
+      - Online Maths Club:
+          - Algebra:
+              - Algebra I: blogs/omc/algebra/algebra_1.md
+              - Functional Equations I: blogs/omc/algebra/functional_equations_1.md
+              - Functional Equations II: blogs/omc/algebra/functional_equations_2.md
+              - Number Theory in Functional Equations: blogs/omc/algebra/nt_functional_eq.md
+              - Polynomials: blogs/omc/algebra/polynomials.md
+          - Combinatorics:
+              - Combinatorial Games: blogs/omc/combinatorics/combinatorial_games.md
+              - Counting: blogs/omc/combinatorics/counting.md
+              - Extremal Principle: blogs/omc/combinatorics/extremal_principle.md
+              - Invariants and Monovariants: blogs/omc/combinatorics/invariants_monovariants.md
+              - Pigeonhole Principle: blogs/omc/combinatorics/pigeonhole_principle.md
+          - Geometry:
+              - Introductory Geometry: blogs/omc/geometry/introductory_geometry.md
+              - Angle Chasing: blogs/omc/geometry/angle_chasing.md
+              - Angle Chasing II: blogs/omc/geometry/angle_chasing_ii.md
+              - Power of a Point: blogs/omc/geometry/power_of_point.md
+              - Power of Point Problem Solving: blogs/omc/geometry/power_of_point_ps.md
+              - Homothety: blogs/omc/geometry/homothety.md
+          - Number Theory:
+              - Modular Arithmetic: blogs/omc/number_theory/modular_arithmetic.md
+              - Problem Solving (Modular Arithmetic): blogs/omc/number_theory/modular_ps.md
+              - Bezout’s Theorem & Euclidean Algorithm: blogs/omc/number_theory/bezout_euclidean.md
+              - Divisibility and Remainder Bounding: blogs/omc/number_theory/divisibility_remainder.md
+              - v_p and Lifting Exponents: blogs/omc/number_theory/vp_lifting.md
+              - Infinite Descent + Vieta Jumping: blogs/omc/number_theory/infinite_descent_vieta.md
+              - Techniques in Number Theory: blogs/omc/number_theory/techniques_nt.md
+          - Algorithms:
+              - Introduction to Recurrence: blogs/omc/algorithms/recurrence.md
+              - Algorithmic Thinking: blogs/omc/algorithms/algorithmic_thinking.md
+              - Analyzing Orders: blogs/omc/algorithms/orders.md
+              - Orders II: blogs/omc/algorithms/orders_2.md
+          - Problem Solving:
+              - Thinking Out of the Box: blogs/omc/problem_solving/thinking_out_of_box.md
+              - Induction: blogs/omc/problem_solving/induction.md
+              - Infinite Descent + Vieta Jumping: blogs/omc/problem_solving/infinite_descent_vieta.md
+              - Introduction to Inequalities: blogs/omc/problem_solving/inequalities.md
+              - Grids and Colours: blogs/omc/problem_solving/grids_colours.md
+          - Graph Theory:
+              - Finding the Hidden Point: blogs/omc/graph_theory/hidden_point.md
+              - Introduction to Graph Theory: blogs/omc/graph_theory/introduction.md
+          - Miscellaneous Topics:
+              - Introduction to Functional Equations: blogs/omc/misc/functional_eq_intro.md
+              - An Introduction to Graph Theory: blogs/omc/misc/graph_theory_intro.md
+              - Finding the Hidden Point: blogs/omc/misc/hidden_point.md
+
+      - An Exploration of Olympiad Combinatorics:
+        - Fundamentals:
+            - Introduction to Problem-Solving:
+                - Introduction: blogs/combinatorics/fundamentals/problem_solving/intro.md
+                - Problems: blogs/combinatorics/fundamentals/problem_solving/problems.md
+            - Introduction to Counting:
+                - Introduction: blogs/combinatorics/fundamentals/counting/intro.md
+                - Addition and Multiplication Principle: blogs/combinatorics/fundamentals/counting/addition_multiplication.md
+                - Permutations: blogs/combinatorics/fundamentals/counting/permutations.md
+                - Combinations: blogs/combinatorics/fundamentals/counting/combinations.md
+                - Inclusion and Exclusion: blogs/combinatorics/fundamentals/counting/inclusion_exclusion.md
+                - Bijection Principle: blogs/combinatorics/fundamentals/counting/bijection.md
+                - Examples: blogs/combinatorics/fundamentals/counting/examples.md
+                - Problems: blogs/combinatorics/fundamentals/counting/problems.md
+            - Induction and Recurrence Relations:
+                - Introduction: blogs/combinatorics/fundamentals/induction/intro.md
+                - Simple Examples: blogs/combinatorics/fundamentals/induction/simple_examples.md
+                - Olympiad Examples: blogs/combinatorics/fundamentals/induction/olympiad_examples.md
+                - Recurrence Relations: blogs/combinatorics/fundamentals/induction/recurrence_relations.md
+                - Problems: blogs/combinatorics/fundamentals/induction/problems.md
+
+        - Techniques for Problem Solving:
+            - Counting: 
+                - Combinatorial Geometry: blogs/combinatorics/techniques/counting/combinatorial_geometry.md
+                - Example: blogs/combinatorics/techniques/counting/example_problems.md
+                - Introduction: blogs/combinatorics/techniques/counting/intro.md
+                - Problems: blogs/combinatorics/techniques/counting/problems.md
+            - Invariants and Monovariants:
+                - Introduction: blogs/combinatorics/techniques/invariants_monovariants/intro.md
+                - Introductory Examples: blogs/combinatorics/techniques/invariants_monovariants/examples.md
+                - Parity: blogs/combinatorics/techniques/invariants_monovariants/parity.md
+                - Working modulo *m*: blogs/combinatorics/techniques/invariants_monovariants/working_mod_m.md
+                - Monovariants: blogs/combinatorics/techniques/invariants_monovariants/monovariants.md
+                - Weighting: blogs/combinatorics/techniques/invariants_monovariants/weighting.md
+                - Colourings: blogs/combinatorics/techniques/invariants_monovariants/colourings.md
+                - Problems: blogs/combinatorics/techniques/invariants_monovariants/problems.md
+            - Combinatorial Games:
+                - Introduction: blogs/combinatorics/techniques/combinatorial_games/intro.md
+                - A first example: blogs/combinatorics/techniques/combinatorial_games/first_example.md
+                - Copying and symmetry: blogs/combinatorics/techniques/combinatorial_games/copying_symmetry.md
+                - Winning and Losing (P and N) Positions: blogs/combinatorics/techniques/combinatorial_games/winning_losing.md
+                - Proof by contradiction: blogs/combinatorics/techniques/combinatorial_games/proof_by_contradiction.md
+                - Nim-game: blogs/combinatorics/techniques/combinatorial_games/nim_game.md
+                - Problems: blogs/combinatorics/techniques/combinatorial_games/problems.md
+            - The Pigeon-Hole Principle:
+                - Introduction: blogs/combinatorics/techniques/pigeonhole/intro.md
+                - Example problems: blogs/combinatorics/techniques/pigeonhole/example_problems.md
+                - Number Theoretic Examples: blogs/combinatorics/techniques/pigeonhole/number_theoretic_examples.md
+                - Problems: blogs/combinatorics/techniques/pigeonhole/problems.md
+            - Soft Techniques:
+                - Introduction: blogs/combinatorics/techniques/soft_techniques/intro.md
+                - Examples: blogs/combinatorics/techniques/soft_techniques/examples.md
+                - Problems: blogs/combinatorics/techniques/soft_techniques/problems.md
+            - Algorithms:
+                - Introduction: blogs/combinatorics/techniques/algorithms/intro.md
+                - Beyond Invariants: blogs/combinatorics/techniques/algorithms/beyond_invariants.md
+                - Induction: blogs/combinatorics/techniques/algorithms/induction.md
+                - Efficient algorithms: blogs/combinatorics/techniques/algorithms/efficient_algorithms.md
+                - Big-O notation: blogs/combinatorics/techniques/algorithms/big_o_notation.md
+                - Divide and Conquer: blogs/combinatorics/techniques/algorithms/divide_conquer.md
+                - Problems: blogs/combinatorics/techniques/algorithms/problems.md
+            - Greedy Algorithms and the Extremal Principle:
+                - Greedy Algorithms: blogs/combinatorics/techniques/greedy/intro.md
+                - Proving Optimality with Greedy Algorithms: blogs/combinatorics/techniques/greedy/proving_optimality.md
+                - Is it good enough?: blogs/combinatorics/techniques/greedy/is_it_enough.md
+                - Does it end?: blogs/combinatorics/techniques/greedy/does_it_end.md
+                - Extremal Principle: blogs/combinatorics/techniques/greedy/extremal_principle.md
+                - Problems: blogs/combinatorics/techniques/greedy/problems.md
+
+        - Graph Theory:
+            - Graph Theory I:
+                - Königsberg Bridge Problem: blogs/combinatorics/graph_theory/graph_theory_1/konigsberg.md
+                - Why Graphs?: blogs/combinatorics/graph_theory/graph_theory_1/why_graphs.md
+                - The Definitions: blogs/combinatorics/graph_theory/graph_theory_1/definitions.md
+                - An Introduction to trees: blogs/combinatorics/graph_theory/graph_theory_1/intro_trees.md
+                - The *n*-edge trick: blogs/combinatorics/graph_theory/graph_theory_1/edge_trick.md
+                - Back to trees!: blogs/combinatorics/graph_theory/graph_theory_1/back_to_trees.md
+                - Problems: blogs/combinatorics/graph_theory/graph_theory_1/problems.md
+            - Graph Theory II:
+                - Bipartite Graphs: blogs/combinatorics/graph_theory/graph_theory_2/bipartite.md
+                - Chromatic numbers: blogs/combinatorics/graph_theory/graph_theory_2/chromatic_numbers.md
+                - Cliques and Independent Sets: blogs/combinatorics/graph_theory/graph_theory_2/cliques_independent_sets.md
+                - Hamiltonian Paths and Cycles: blogs/combinatorics/graph_theory/graph_theory_2/hamiltonian.md
+                - Tournaments: blogs/combinatorics/graph_theory/graph_theory_2/tournaments.md
+                - Counting in two ways: blogs/combinatorics/graph_theory/graph_theory_2/counting.md
+                - Problems: blogs/combinatorics/graph_theory/graph_theory_2/problems.md
+            - Hall’s Theorem:
+                - Introduction: blogs/combinatorics/graph_theory/halls_theorem/intro.md
+                - The theorem: blogs/combinatorics/graph_theory/halls_theorem/theorem.md
+                - Proof of Hall’s theorem: blogs/combinatorics/graph_theory/halls_theorem/proof.md
+                - Example problems: blogs/combinatorics/graph_theory/halls_theorem/example_problems.md
+                - Problems: blogs/combinatorics/graph_theory/halls_theorem/problems.md
+
+        - Advanced Topics:
+            - Processes:
+                - Introduction: blogs/combinatorics/advanced/processes/intro.md
+                - Understanding processes: blogs/combinatorics/advanced/processes/understanding_processes.md
+                - Rules are meant to be broken: blogs/combinatorics/advanced/processes/rules_broken.md
+                - The superposition trick: blogs/combinatorics/advanced/processes/superposition.md
+                - Problems: blogs/combinatorics/advanced/processes/problems.md
+            - Expected Value:
+                - Some definitions: blogs/combinatorics/advanced/expected_value/definitions.md
+                - States: blogs/combinatorics/advanced/expected_value/states.md
+                - Linearity of Expectation: blogs/combinatorics/advanced/expected_value/linearity_expectation.md
+                - Problems: blogs/combinatorics/advanced/expected_value/problems.md
+            - The Probabilistic Method:
+                - Introductory Examples: blogs/combinatorics/advanced/probabilistic_method/examples.md
+                - Probability of failing: blogs/combinatorics/advanced/probabilistic_method/probability_failing.md
+                - Alterations: blogs/combinatorics/advanced/probabilistic_method/alterations.md
+                - Final Examples: blogs/combinatorics/advanced/probabilistic_method/final_examples.md
+                - Problems: blogs/combinatorics/advanced/probabilistic_method/problems.md
+
+        - Appendix:
+            - Hints: blogs/combinatorics/appendix/hints.md
+            - Solutions: blogs/combinatorics/appendix/solutions.md
+            - Bibliography: blogs/combinatorics/appendix/bibliography.md
+            - Index: blogs/combinatorics/appendix/index.md
+
   - Tags: tags.md
 
 plugins:
+  - mermaid2:
+      arguments: {}
+      javascript: https://unpkg.com/mermaid@9/dist/mermaid.min.js
   - search
   - tags:
       tags_file: tags.md
