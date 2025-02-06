@@ -2,102 +2,626 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/about/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/ai/dl/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/ai/map/</loc>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/ai/ml/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/ai/nlp/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/expected_value/definitions/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/expected_value/linearity_expectation/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/expected_value/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/expected_value/states/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/probabilistic_method/alterations/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/probabilistic_method/examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/probabilistic_method/final_examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/probabilistic_method/probability_failing/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/probabilistic_method/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/processes/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/processes/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/processes/rules_broken/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/processes/superposition/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/advanced/processes/understanding_processes/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/appendix/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/appendix/bibliography/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/appendix/hints/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/appendix/solutions/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/addition_multiplication/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/bijection/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/combinations/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/inclusion_exclusion/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/permutations/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/counting/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/induction/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/induction/olympiad_examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/induction/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/induction/recurrence_relations/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/induction/simple_examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/problem_solving/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/fundamentals/problem_solving/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/back_to_trees/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/definitions/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/edge_trick/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/intro_trees/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/konigsberg/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_1/why_graphs/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/bipartite/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/chromatic_numbers/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/cliques_independent_sets/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/counting/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/hamiltonian/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/graph_theory_2/tournaments/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/halls_theorem/example_problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/halls_theorem/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/halls_theorem/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/halls_theorem/proof/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/graph_theory/halls_theorem/theorem/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/beyond_invariants/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/big_o_notation/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/divide_conquer/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/efficient_algorithms/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/induction/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/algorithms/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/copying_symmetry/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/first_example/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/nim_game/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/proof_by_contradiction/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/combinatorial_games/winning_losing/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/counting/combinatorial_geometry/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/counting/example_problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/counting/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/counting/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/does_it_end/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/extremal_principle/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/is_it_enough/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/greedy/proving_optimality/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/colourings/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/monovariants/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/parity/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/weighting/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/invariants_monovariants/working_mod_m/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/pigeonhole/example_problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/pigeonhole/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/pigeonhole/number_theoretic_examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/pigeonhole/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/soft_techniques/examples/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/soft_techniques/intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/combinatorics/techniques/soft_techniques/problems/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algebra/algebra_1/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algebra/functional_equations_1/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algebra/functional_equations_2/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algebra/nt_functional_eq/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algebra/polynomials/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algorithms/algorithmic_thinking/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algorithms/orders/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algorithms/orders_2/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/algorithms/recurrence/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/combinatorics/combinatorial_games/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/combinatorics/counting/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/combinatorics/extremal_principle/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/combinatorics/invariants_monovariants/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/combinatorics/pigeonhole_principle/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/angle_chasing/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/angle_chasing_ii/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/homothety/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/introductory_geometry/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/power_of_point/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/geometry/power_of_point_ps/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/graph_theory/hidden_point/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/graph_theory/introduction/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/misc/functional_eq_intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/misc/graph_theory_intro/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/misc/hidden_point/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/bezout_euclidean/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/divisibility_remainder/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/infinite_descent_vieta/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/modular_arithmetic/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/modular_ps/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/techniques_nt/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/number_theory/vp_lifting/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/problem_solving/grids_colours/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/problem_solving/induction/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/problem_solving/inequalities/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/problem_solving/infinite_descent_vieta/</loc>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/blogs/omc/problem_solving/thinking_out_of_box/</loc>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/cs/algorithms/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/cs/data_structures/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/cs/map/</loc>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/cs/system_design/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/econ/macro/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/econ/micro/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/history/ancient/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/history/modern/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/math/algebra/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/math/calculus/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/math/geometry/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
+    </url>
+    <url>
+         <loc>https://heisenberg-8828.github.io/Heisenberg-blog/math/map/</loc>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/personal/life_lessons/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/personal/productivity/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/philosophy/epistemology/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/philosophy/ethics/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/philosophy/metaphysics/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/physics/classical/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/physics/quantum/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/psych/behavioral/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/psych/cognitive/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
     <url>
          <loc>https://heisenberg-8828.github.io/Heisenberg-blog/tags/</loc>
-         <lastmod>2025-01-31</lastmod>
+         <lastmod>2025-02-06</lastmod>
     </url>
 </urlset>

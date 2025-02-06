@@ -1,0 +1,54 @@
+#!/bin/bash
+
+BASE_PATH="docs" # The root docs directory
+NAV_PATH="nav" # Folder to store YAMLs
+
+# Ensure the nav directory exists
+mkdir -p "$NAV_PATH"
+
+# Function to generate YAML structure
+generate_yaml() {
+    local category="$1"
+    local yaml_file="$NAV_PATH/$category.yml"
+
+    # Check if the directory exists, else skip
+    if [ ! -d "$BASE_PATH/$category" ]; then
+        echo "⚠️ Skipping '$category': Directory does not exist."
+        return
+    fi
+
+    echo "- $category:" > "$yaml_file"
+
+    find "$BASE_PATH/$category" -type f -name "*.md" | sort | while read -r file; do
+        # Extract relative path and title
+        relative_path="${file#$BASE_PATH/}"
+        title=$(basename "$relative_path" .md | tr '_' ' ' | sed 's/\b\w/\u&/g')
+
+        # Format YAML entry
+        echo "    - $title: $relative_path" >> "$yaml_file"
+    done
+}
+
+# List of categories based on your actual folders
+categories=("math" "cs" "ai" "physics" "econ" "psych" "history" "philosophy" "personal" "blogs")
+
+# Generate YAML for each category
+for category in "${categories[@]}"; do
+    generate_yaml "$category"
+done
+
+# Handle "blogs" separately and include subcategories if needed
+BLOGS_YAML="$NAV_PATH/blogs.yml"
+echo "- Blogs:" > "$BLOGS_YAML"
+
+find "$BASE_PATH/blogs" -mindepth 1 -maxdepth 1 -type d | while read -r subfolder; do
+    subfolder_name=$(basename "$subfolder")
+    echo "    - $subfolder_name:" >> "$BLOGS_YAML"
+    find "$subfolder" -type f -name "*.md" | sort | while read -r file; do
+        relative_path="${file#$BASE_PATH/}"
+        title=$(basename "$relative_path" .md | tr '_' ' ' | sed 's/\b\w/\u&/g')
+        echo "        - $title: $relative_path" >> "$BLOGS_YAML"
+    done
+done
+
+echo "✅ All YAML files created and populated inside '$NAV_PATH/' folder!"
